@@ -1,0 +1,6 @@
+#define CMakeTutorial_VERSION_MAJOR @CMakeTutorial_VERSION_MAJOR@
+#define CMakeTutorial_VERSION_MINOR @CMakeTutorial_VERSION_MINOR@
+#define CMakeTutorial_VERSION_PATCH @CMakeTutorial_VERSION_PATCH@
+#define CMakeTutorial_VERSION_TWEAK @CMakeTutorial_VERSION_TWEAK@
+#define CMakeTutorial_VERSION @CMakeTutorial_VERSION@
+#cmakedefine USE_USER_TOOLS
